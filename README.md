@@ -25,4 +25,5 @@ Analizar Resultados:
 
 - Debes tener instalado Ubuntu, valgrind
 - En la terminal ejecutamos `gcc -o stride stride.c ` o  `gcc -o secuencial secuencial.c `
-- Ejecutas el comando `valgrind --tool=cachegrind --cache-sim=yes --branch-sim=yes ./stride ` o `valgrind --tool=cachegrind --cache-sim=yes --branch-sim=yes ./secuencial `
+- Ejecutas el comando `valgrind --tool=cachegrind --cache-sim=yes --branch-sim=yes ./stride `
+- `valgrind --tool=cachegrind --cache-sim=yes --branch-sim=yes ./secuencial `
