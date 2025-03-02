@@ -17,7 +17,7 @@ Analizar Resultados:
 # Integrantes :
 
 - Sebastian Marulanda Cardenas - 2410241
-- Venus Paipilla -   
+- Venus Paipilla - 2343803
 - Nicolas Garces Larrahondo - 2180066
 - Ivan Alexis Noriega - 2126012
 
